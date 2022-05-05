@@ -25,5 +25,17 @@ For this analysis, I was tasked with analyzing weather patterns on the Hawaiian 
   * December's lowest temperature was 56 degrees.
 
 ## Summary
+In summary, the weather data for the Hawaiian Island of Oahu in June and December is very similar.  With the two months being six months apart, one could assume that the weather for the entire year is very simialr.  To get a better understanding of the data for the entire year, I would recommend running an analysis for the months of March and September.
+
+Following the same coding as the June and December queries, I analyzed the temperature data for those two months (see SurfsUp_Challenge.ipynb).  
+* The average temperature for March is approximately 70 degrees, with the lowest temperature being 56 degrees and the highest temperature being 82 degrees.
+* The average temperature for September is approximately 76 degrees, with the lowest tempteraure being 64 degrees and the highest temperature being 87 degrees.
+Based on the temperature data for the four months queried, I would highly recommend establishing a surf and ice cream shop on the Island of Oahu.  The temperature does not seem to vary much throughout the year, and the average high is in the 70's, which is perfect weather to surf and enjoy ice cream.
+
+To optamize the analysis, I would recommend analyzing the folowing:
+* Precipitation data for the months of June and December.  
+* Analyze the data for each reporting weather station to determine the best area of the island to locate the surf and ice cream shop
+
+
 
 
